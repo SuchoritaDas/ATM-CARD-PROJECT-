@@ -1,5 +1,8 @@
 # ATM-CARD-PROJECT-
 
+ATM Simulation by Tech Octanet Pvt. Ltd.
+This is a simple ATM simulation program implemented in Python. The program allows users to authenticate using their card number and PIN, check their balance, deposit funds, and withdraw funds.
+
 Requirements Python 3.6
 a. Jupyter Notebook 7.2
 b.Pycharm 2024 3.1.1
